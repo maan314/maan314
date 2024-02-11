@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Front-End
 - 📫 You can reach me through my LinkedIn 
-- 😄 Pronouns: Male
 - ⚡ Fun fact: Love to Learn the New things
 
 <!---

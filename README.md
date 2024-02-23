@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Usman
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning front-End Web Development
 - 💞️ I’m looking to collaborate on Front-End
 - 📫 You can reach me through my LinkedIn 
 - ⚡ Fun fact: Love to Learn the New things
